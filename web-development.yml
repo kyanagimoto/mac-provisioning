@@ -55,7 +55,7 @@
     homebrew_cask_packages:
       - google-chrome
       - google-japanese-ime
-      - java8
+      - java
       - hipchat
       - atom
       - vagrant

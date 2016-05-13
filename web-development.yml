@@ -29,7 +29,6 @@
       - ansible
       - git
       - git-flow
-      - heroku-toolbelt
       - peco
       - nvm
       - rbenv
@@ -39,6 +38,7 @@
       - zsh
       - zsh-completions
       - zsh-syntax-highlighting
+      - tmux
 
     # Tap external Homebrew Cask repositories.
     homebrew_cask_repositories:
@@ -53,16 +53,12 @@
     #
     # state choices: [present, absent, installed, uninstalled] (default: present)
     homebrew_cask_packages:
-      - firefox-ja
-      - flash
       - google-chrome
       - google-japanese-ime
-      - iterm2
-      - java6
-      - karabiner
-      - phpstorm
-      - rubymine
-      - slack
-      - sublime-text
+      - java8
+      - hipchat
+      - atom
       - vagrant
       - virtualbox
+      - intellij-idea-ce
+      - emacs

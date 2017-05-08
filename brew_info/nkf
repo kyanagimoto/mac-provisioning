@@ -1,0 +1,6 @@
+nkf: stable 2.1.4 (bottled)
+Network Kanji code conversion Filter (NKF)
+https://osdn.jp/projects/nkf/
+/usr/local/Cellar/nkf/2.1.4 (4 files, 342.7KB) *
+  Poured from bottle on 2017-05-08 at 05:11:33
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/nkf.rb

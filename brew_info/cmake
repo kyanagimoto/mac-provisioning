@@ -1,0 +1,18 @@
+cmake: stable 3.8.1 (bottled), HEAD
+Cross-platform make
+https://www.cmake.org/
+/usr/local/Cellar/cmake/3.8.1 (2,208 files, 29.2MB) *
+  Poured from bottle on 2017-05-08 at 05:11:05
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/cmake.rb
+==> Dependencies
+Build: sphinx-doc
+==> Options
+--with-completion
+	Install Bash completion (Has potential problems with system bash)
+--without-docs
+	Don't build man pages
+--HEAD
+	Install HEAD version
+==> Caveats
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/cmake

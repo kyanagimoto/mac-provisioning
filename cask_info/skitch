@@ -1,0 +1,8 @@
+skitch: 2.8
+https://evernote.com/skitch/
+/usr/local/Caskroom/skitch/2.8 (68B)
+From: https://github.com/caskroom/homebrew-cask/blob/master/Casks/skitch.rb
+==> Name
+Skitch
+==> Artifacts
+Skitch.app (app)

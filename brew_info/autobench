@@ -1,0 +1,8 @@
+autobench: stable 2.1.2 (bottled)
+Automatic webserver benchmark tool
+http://www.xenoclast.org/autobench/
+/usr/local/Cellar/autobench/2.1.2 (17 files, 105.5KB) *
+  Poured from bottle on 2017-05-08 at 05:19:47
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/autobench.rb
+==> Dependencies
+Required: httperf

@@ -1,0 +1,14 @@
+flow: stable 0.45.0 (bottled), HEAD
+Static type checker for JavaScript
+https://flowtype.org/
+/usr/local/Cellar/flow/0.45.0 (8 files, 6.4MB) *
+  Poured from bottle on 2017-05-08 at 05:08:36
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/flow.rb
+==> Dependencies
+Build: ocaml, opam
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions

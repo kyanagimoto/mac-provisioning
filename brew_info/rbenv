@@ -1,0 +1,13 @@
+rbenv: stable 1.1.0 (bottled), HEAD
+Ruby version manager
+https://github.com/rbenv/rbenv#readme
+/usr/local/Cellar/rbenv/1.1.0 (36 files, 63.2KB) *
+  Poured from bottle on 2017-05-08 at 05:11:58
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/rbenv.rb
+==> Dependencies
+Recommended: ruby-build
+==> Options
+--without-ruby-build
+	Build without ruby-build support
+--HEAD
+	Install HEAD version

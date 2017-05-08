@@ -1,0 +1,39 @@
+curl: stable 7.54.0 (bottled) [keg-only]
+Get a file from an HTTP, HTTPS or FTP server
+https://curl.haxx.se/
+/usr/local/Cellar/curl/7.54.0 (392 files, 2.8MB)
+  Poured from bottle on 2017-05-08 at 05:10:55
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/curl.rb
+==> Dependencies
+Build: pkg-config
+Optional: openssl, rtmpdump, libssh2, c-ares, libmetalink, nghttp2
+==> Options
+--with-c-ares
+	Build with C-Ares async DNS support
+--with-gssapi
+	Build with GSSAPI/Kerberos authentication support.
+--with-libmetalink
+	Build with libmetalink support.
+--with-libssh2
+	Build with scp and sftp support
+--with-nghttp2
+	Build with HTTP/2 support (requires OpenSSL)
+--with-openssl
+	Build with OpenSSL instead of Secure Transport
+--with-rtmpdump
+	Build with RTMP support
+==> Caveats
+This formula is keg-only, which means it was not symlinked into /usr/local.
+
+macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have this software first in your PATH run:
+  echo 'export PATH="/usr/local/opt/curl/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find this software you may need to set:
+    LDFLAGS:  -L/usr/local/opt/curl/lib
+    CPPFLAGS: -I/usr/local/opt/curl/include
+For pkg-config to find this software you may need to set:
+    PKG_CONFIG_PATH: /usr/local/opt/curl/lib/pkgconfig
+

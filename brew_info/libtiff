@@ -1,0 +1,14 @@
+libtiff: stable 4.0.7 (bottled)
+TIFF library and utilities
+http://libtiff.maptools.org/
+/usr/local/Cellar/libtiff/4.0.7_3 (248 files, 3.4MB) *
+  Poured from bottle on 2017-05-08 at 05:17:11
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/libtiff.rb
+==> Dependencies
+Required: jpeg
+Optional: xz
+==> Options
+--c++11
+	Build using C++11 mode
+--with-xz
+	Include support for LZMA compression

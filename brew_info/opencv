@@ -1,0 +1,54 @@
+homebrew/science/opencv: stable 2.4.13.2 (bottled), HEAD
+Open source computer vision library
+http://opencv.org/
+/usr/local/Cellar/opencv/2.4.13.2 (278 files, 35.6MB) *
+  Poured from bottle on 2017-05-08 at 05:18:28
+From: https://github.com/Homebrew/homebrew-science/blob/master/opencv.rb
+==> Dependencies
+Build: cmake, pkg-config
+Required: jpeg, libpng, libtiff
+Recommended: eigen, openexr, numpy
+Optional: jasper, gstreamer, libdc1394, openni, tbb, vtk, ffmpeg
+==> Requirements
+Optional: cuda, java
+==> Options
+--c++11
+	Build using C++11 mode
+--universal
+	Build a universal binary
+--with-cuda
+	Build with cuda support
+--with-ffmpeg
+	Build with ffmpeg support
+--with-gstreamer
+	Build with gstreamer support
+--with-jasper
+	Build with jasper support
+--with-java
+	Build with Java support
+--with-libdc1394
+	Build with libdc1394 support
+--with-opengl
+	Build with OpenGL support
+--with-openni
+	Build with openni support
+--with-tbb
+	Enable parallel code in OpenCV using Intel TBB
+--with-vtk
+	Build with vtk support
+--with-ximea
+	Build with XIMEA support
+--without-eigen
+	Build without eigen support
+--without-numpy
+	Use your own numpy instead of Homebrew's numpy
+--without-opencl
+	Disable GPU code in OpenCV using OpenCL
+--without-openexr
+	Build without openexr support
+--without-python
+	Build without python support
+--without-test
+	Build without accuracy and performance tests
+--HEAD
+	Install HEAD version

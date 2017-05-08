@@ -1,0 +1,6 @@
+git-cal: stable 0.9.1 (bottled), HEAD
+GitHub-like contributions calendar but on the command-line
+https://github.com/k4rthik/git-cal
+/usr/local/Cellar/git-cal/0.9.1 (6 files, 22.9KB) *
+  Poured from bottle on 2017-05-08 at 05:19:24
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-cal.rb

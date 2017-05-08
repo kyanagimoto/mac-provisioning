@@ -1,0 +1,19 @@
+zsh: stable 5.3.1 (bottled), HEAD
+UNIX shell (command interpreter)
+https://www.zsh.org/
+/usr/local/Cellar/zsh/5.3.1 (1,202 files, 8.5MB) *
+  Built from source on 2017-05-08 at 05:10:35 with: --without-etcdir
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsh.rb
+==> Dependencies
+Build: texi2html
+Required: gdbm, pcre
+Optional: texi2html
+==> Options
+--with-texi2html
+	Build HTML documentation
+--with-unicode9
+	Build with Unicode 9 character width support
+--without-etcdir
+	Disable the reading of Zsh rc files in /etc
+--HEAD
+	Install HEAD version

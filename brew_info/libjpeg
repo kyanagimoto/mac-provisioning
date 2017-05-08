@@ -1,0 +1,6 @@
+jpeg: stable 8d (bottled)
+Image manipulation library
+http://www.ijg.org
+/usr/local/Cellar/jpeg/8d (19 files, 708.3KB) *
+  Poured from bottle on 2017-05-08 at 05:16:55
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpeg.rb

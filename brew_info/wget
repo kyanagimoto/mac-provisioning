@@ -1,0 +1,21 @@
+wget: stable 1.19.1 (bottled), HEAD
+Internet file retriever
+https://www.gnu.org/software/wget/
+/usr/local/Cellar/wget/1.19.1 (10 files, 1.6MB) *
+  Poured from bottle on 2017-05-08 at 05:10:44
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/wget.rb
+==> Dependencies
+Build: pkg-config
+Required: openssl
+Optional: pcre, libmetalink, gpgme
+==> Options
+--with-debug
+	Build with debug support
+--with-gpgme
+	Build with gpgme support
+--with-libmetalink
+	Build with libmetalink support
+--with-pcre
+	Build with pcre support
+--HEAD
+	Install HEAD version

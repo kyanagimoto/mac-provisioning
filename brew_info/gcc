@@ -1,0 +1,17 @@
+gcc: stable 7.1.0 (bottled), HEAD
+GNU compiler collection
+https://gcc.gnu.org/
+/usr/local/Cellar/gcc/7.1.0 (1,486 files, 283.8MB) *
+  Poured from bottle on 2017-05-08 at 05:16:46
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc.rb
+==> Dependencies
+Required: gmp, libmpc, mpfr, isl
+==> Options
+--with-jit
+	Build just-in-time compiler
+--with-nls
+	Build with native language support (localization)
+--without-multilib
+	Build without multilib support
+--HEAD
+	Install HEAD version

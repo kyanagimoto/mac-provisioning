@@ -1,0 +1,8 @@
+cyberduck: 5.4.4.23962
+https://cyberduck.io/
+/usr/local/Caskroom/cyberduck/5.4.4.23962 (68B)
+From: https://github.com/caskroom/homebrew-cask/blob/master/Casks/cyberduck.rb
+==> Name
+Cyberduck
+==> Artifacts
+Cyberduck.app (app)

@@ -1,0 +1,8 @@
+peco: stable 0.5.1 (bottled), HEAD
+Simplistic interactive filtering tool
+https://github.com/peco/peco
+/usr/local/Cellar/peco/0.5.1 (6 files, 4.2MB) *
+  Poured from bottle on 2017-05-08 at 05:19:33
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/peco.rb
+==> Dependencies
+Build: glide, go

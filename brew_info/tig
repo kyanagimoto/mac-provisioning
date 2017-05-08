@@ -1,0 +1,26 @@
+tig: stable 2.2.2 (bottled), HEAD
+Text interface for Git repositories
+http://jonas.nitro.dk/tig/
+/usr/local/Cellar/tig/2.2.2 (12 files, 457.3KB) *
+  Poured from bottle on 2017-05-08 at 05:11:42
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/tig.rb
+==> Dependencies
+Recommended: readline
+==> Options
+--with-docs
+	Build man pages using asciidoc and xmlto
+--without-readline
+	Build without readline support
+--HEAD
+	Install HEAD version
+==> Caveats
+A sample of the default configuration has been installed to:
+  /usr/local/opt/tig/share/tig/examples/tigrc
+to override the system-wide default configuration, copy the sample to:
+  /usr/local/etc/tigrc
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions

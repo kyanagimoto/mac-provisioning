@@ -1,0 +1,12 @@
+thefuck: stable 3.16 (bottled), HEAD
+Programatically correct mistyped console commands
+https://github.com/nvbn/thefuck
+/usr/local/Cellar/thefuck/3.16 (694 files, 6.1MB) *
+  Poured from bottle on 2017-05-08 at 05:19:58
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/thefuck.rb
+==> Caveats
+Add the following to your .bash_profile, .bashrc or .zshrc:
+
+  eval "$(thefuck --alias)"
+
+For other shells, check https://github.com/nvbn/thefuck/wiki/Shell-aliases

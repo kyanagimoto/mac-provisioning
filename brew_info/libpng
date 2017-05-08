@@ -1,0 +1,6 @@
+libpng: stable 1.6.29 (bottled), HEAD
+Library for manipulating PNG images
+http://www.libpng.org/pub/png/libpng.html
+/usr/local/Cellar/libpng/1.6.29 (26 files, 1.2MB) *
+  Poured from bottle on 2017-05-08 at 05:17:01
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/libpng.rb
